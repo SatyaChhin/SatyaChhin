@@ -45,45 +45,5 @@
 
 ---
 
-## 📌 Featured Projects
-<p align="center">
-  <!-- replace repo names -->
-  <a href="https://github.com/<USERNAME>/<REPO1>">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<REPO1>&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/<USERNAME>/<REPO2>">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<REPO2>&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=<USERNAME>&theme=tokyonight" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<USERNAME>&bg_color=0d1117&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🧩 Extra
-- 🔒 Private contributions can be shown from **Profile → Edit profile → “Show private contributions”**.
-- 📌 Pin up to **6 repos** on your profile (click ✏️ next to “Pinned”).
-
----
-
-## 🐍 Contribution Snake (optional animation)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake.svg" alt="snake animation"/>
-</p>
-
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22D3EE,100:818CF8&section=footer" width="100%"/>
